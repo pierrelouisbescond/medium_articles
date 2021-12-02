@@ -1,4 +1,6 @@
 # Medium Articles Sources
+
+### This repository collects the code I have developed for the different articles published on [Medium](https://medium.com/), mainly in [Towards Data Science](https://towardsdatascience.com/).
 | Thumbnail | Description  |
 |--|--|
 | <img src="https://miro.medium.com/max/1225/0*-aFhUgF1jdcF60k3" width="400"/> | This [repo](https://github.com/pierrelouisbescond/surrogate_model_demo) includes the code I have developped for the article [Understanding Surrogate Models and Their Benefits in Data Science](https://towardsdatascience.com/understanding-surrogate-models-and-their-benefits-in-data-science-5cdc81a0509a)|
